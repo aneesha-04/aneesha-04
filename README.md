@@ -13,7 +13,7 @@
 * 🌱 Currently learning **C++, DSA, React & AI/ML**
 * 🔨 Building projects in **Web Development & AI**
 * 🎯 Preparing for **Software Engineering Placements**
-* 📫 **[goswamianeesha@gmail.com](mailto:goswamianeesha@gmail.com)**
+  
 
 ### 🛠️ Languages & Tools
 
