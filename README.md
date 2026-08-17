@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-* 🌱 Currently learning **C++, DSA, React & AI/ML**
+* 🌱 Currently learning **DSA , AI/ML, CSE fundamentals**
 * 🔨 Building projects in **Web Development & AI**
 * 🎯 Preparing for **Software Engineering Placements**
   
